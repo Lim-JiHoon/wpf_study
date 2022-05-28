@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\c#\UserControlP\UserControlP\obj\Debug\net6.0-windows\
+C:\c#\git\wpf_study\UserControlP\obj\Debug\net6.0-windows\
 UserControlP
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\c#\UserControlP\UserControlP\App.xaml
-3-716829431
+C:\c#\git\wpf_study\UserControlP\App.xaml
+4-1144262512
 
-9-1647888489
+1042333668
 1951166305044
-MyUserControl\MainWindow.xaml;MyUserControl\UserItem.xaml;Style\ButtonStyle1.xaml;
+MyTrigger\TriggerWindow.xaml;MyUserControl\MainWindow.xaml;MyUserControl\UserItem.xaml;Style\ButtonStyle1.xaml;
 
 True
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "upZ2vqt3ZXxtI0fE6oxj3m667P9N0BufM5gpU/QQXbJtx1m6Q6Yn0CKySsSq+2dRSb7R07/pXRawGrGw0Uj4SA==",
+  "dgSpecHash": "pQeaJtgvCVwCkey7EcltgVHZWFUe7EeF4wJQWq1FAZ1TjIQcCabmD9SbjAtI1jzQyWesNrp4UAuzCqspZe1D9w==",
   "success": true,
-  "projectFilePath": "C:\\c#\\UserControlP\\UserControlP\\UserControlP.csproj",
+  "projectFilePath": "C:\\c#\\git\\wpf_study\\UserControlP\\UserControlP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RENEWCOM PC\\.nuget\\packages\\fontawesome.wpf\\4.7.0.9\\fontawesome.wpf.4.7.0.9.nupkg.sha512"
   ],

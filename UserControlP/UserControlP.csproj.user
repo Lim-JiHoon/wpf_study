@@ -7,11 +7,17 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="MyTrigger\TriggerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="MyUserControl\UserItem.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="MyTrigger\TriggerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MyUserControl\MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>

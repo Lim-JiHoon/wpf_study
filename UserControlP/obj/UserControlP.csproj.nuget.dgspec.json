@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#\\UserControlP\\UserControlP\\UserControlP.csproj": {}
+    "C:\\c#\\git\\wpf_study\\UserControlP\\UserControlP.csproj": {}
   },
   "projects": {
-    "C:\\c#\\UserControlP\\UserControlP\\UserControlP.csproj": {
+    "C:\\c#\\git\\wpf_study\\UserControlP\\UserControlP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#\\UserControlP\\UserControlP\\UserControlP.csproj",
+        "projectUniqueName": "C:\\c#\\git\\wpf_study\\UserControlP\\UserControlP.csproj",
         "projectName": "UserControlP",
-        "projectPath": "C:\\c#\\UserControlP\\UserControlP\\UserControlP.csproj",
+        "projectPath": "C:\\c#\\git\\wpf_study\\UserControlP\\UserControlP.csproj",
         "packagesPath": "C:\\Users\\RENEWCOM PC\\.nuget\\packages\\",
-        "outputPath": "C:\\c#\\UserControlP\\UserControlP\\obj\\",
+        "outputPath": "C:\\c#\\git\\wpf_study\\UserControlP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RENEWCOM PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
